@@ -16,7 +16,7 @@ A Simple To-Do List app built with React.js
 Clone the Project
 
 ```sh
-$ git clone https://github.com/JitendraNirnejak/todolist.git
+$ git clone https://github.com/afiqahnajaa/ToDoList.git
 $ cd todolist
 ```
 
